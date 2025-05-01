@@ -1,0 +1,21 @@
+{
+  "1": {
+    "status": "COMPLETED",
+    "wallet": "0x2DDE975DC63413dc35487E875d5681f3d9cf0dAE",
+    "retryCount": 0
+  },
+  "2": {
+    "status": "COMPLETED",
+    "wallet": "0x2DDE975DC63413dc35487E875d5681f3d9cf0dAE",
+    "retryCount": 0,
+    "taskId": "6bbed43fe45fc1c169b6b5819f29abea",
+    "startedAt": 1746140706468
+  },
+  "3": {
+    "status": "COMPLETED",
+    "wallet": "0x2DDE975DC63413dc35487E875d5681f3d9cf0dAE",
+    "retryCount": 0,
+    "taskId": "6c6f0f31b325cc0dd38e5b260bb3efad",
+    "startedAt": 1746141274182
+  }
+}
